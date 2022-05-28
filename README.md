@@ -68,3 +68,12 @@ Enter PW when promted
 ## Mock-Up
 
 The following animation shows the application’s GET, POST, PUT, and DELETE routes for TAGS being tested in Insomnia Core:
+
+- Create Schema and Seed data: https://drive.google.com/file/d/1zKBLzOfNgHKs7mT24uDTBO1r-Al6G-T1/view
+- GET routes to return all categories, all products,all tags : https://drive.google.com/file/d/1_UaePa3MT-A8ox39tBYZztoN_yau0R7s/view
+- GET routes to return a single category, a single product,and a single tag : https://drive.google.com/file/d/1lYZtEFkm6T_HtH4PB2AJKwzmYs_WXO1_/view
+- POST, PUT, and DELETE routes for categories : https://drive.google.com/file/d/1oRUq-VvjqONG5qxrMYrubyB7imIzySqs/view
+
+
+
+
